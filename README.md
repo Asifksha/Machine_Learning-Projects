@@ -5,3 +5,13 @@ Random Forest is an ensemble learning algorithm that combines multiple decision 
 BREAST CANCER CLASSIFICATION
 PROBLEM STATEMENT Predicting if the cancer diagnosis is benign or malignant based on several observations/features 30 features are used.
 
+FB Prophet Model
+FB Prophet is an open-source time series forecasting tool developed by Facebook (now Meta) that is designed to handle the following common challenges in time series forecasting: Seasonality: Repeating patterns at regular intervals (e.g., daily, weekly, yearly).
+Holidays and special events: Events that cause irregular patterns (e.g., Christmas, promotions).
+Missing data: Handles gaps or missing data in time series without needing to impute them.
+Outliers: Automatically detects and handles outliers in the data.
+Trend changes: Can model sudden shifts or changes in the underlying trend of the data.
+Prophet is particularly useful when you have time series data that exhibits strong seasonal patterns and allows for easy tuning of seasonal components. It is simple to use, and even with minimal tuning, it produces reasonable forecasts.
+
+
+
